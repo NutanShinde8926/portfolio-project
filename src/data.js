@@ -1,5 +1,5 @@
 export const info = {
-  name: "Your Name",
+  name: "Nutan Shinde",
   role: "Frontend Developer",
   tagline:
     "I build responsive and user-friendly websites using HTML, CSS, JavaScript and React.",
